@@ -2,6 +2,7 @@
 body {
 	font-size: 16px;
 	transition: all 0.25s cubic-bezier(0.54, 0.12, 0.2, 1) 0s;
+	 background-color: #ffd8a1;
 }
 
 p {
@@ -121,6 +122,7 @@ header {
 .container {
 	width: 960px;
 	margin: 0 auto;
+	background-color: #ffd8a1;
 }
 
 /* Section: Banner + Feature */
