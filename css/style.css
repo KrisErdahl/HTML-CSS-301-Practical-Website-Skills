@@ -3,24 +3,30 @@ body {
 	font-size: 16px;
 	transition: all 0.25s cubic-bezier(0.54, 0.12, 0.2, 1) 0s;
 }
+
 p {
 	line-height: 22px;
 	margin-bottom: 15px;
 }
+
 a {
 	text-decoration: none;
 	color: blue;
 }
+
 a:hover {
 	color: darkblue;
 	text-decoration: none;
 }
+
 a:active {
 
 }
+
 h1 {
 
 }
+
 h2 {
 	font-size: 40px;
 	margin-bottom: 15px;
@@ -44,6 +50,7 @@ h5 {
 h6 {
 
 }
+
 button {
 	color: #fff;
 	background: blue;
@@ -51,10 +58,12 @@ button {
 	font-size: 14px;
 	cursor: pointer;
 }
+
 button:hover {
 	background: darkblue;
 	color: #fff;
 }
+
 img {
 	max-width: 100%;
 	height: auto;
