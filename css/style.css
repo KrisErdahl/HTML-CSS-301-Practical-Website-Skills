@@ -111,6 +111,7 @@ header {
 .nav-main li a {
 	padding: 10px 15px;
 	color: #1472b2;
+	font-size: 18px;
 }
 
 .nav-main li a:hover {
@@ -137,11 +138,13 @@ header {
 .feature {
 	padding: 40px 0;
 	text-align: center;
+	background-color: #a1d9ff;
 }
 
 .feature h2 {
 	font-size: 40px;
-	color: #2666b2;
+	color: #b2894d;
+	
 	margin-bottom: 10px;
 }
 
